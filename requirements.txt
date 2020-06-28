@@ -1,0 +1,7 @@
+streamlit
+numpy>=1.9.2
+scipy>=0.15.1
+scikit-learn==0.22.1
+pandas>=0.19
+xgboost>=1.0.2
+python-3.6.10
